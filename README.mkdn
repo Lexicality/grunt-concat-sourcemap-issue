@@ -1,6 +1,6 @@
 To replicate:
 
-```bash
+```
 npm install
 grunt
 ```
