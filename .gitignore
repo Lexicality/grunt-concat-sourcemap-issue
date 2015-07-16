@@ -1,4 +1,6 @@
 node_modules
+*.map
+*.min.js
 built.js
-built.js.map
 package.js
+stubs.js
